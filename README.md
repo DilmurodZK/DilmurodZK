@@ -25,9 +25,11 @@
 ---
 
 ## 📌 Featured Projects
-- [**DC_girls**](https://github.com/DilmurodZK/DC_girls) – Django + DRF project with REST APIs, admin dashboard, and Swagger documentation  
-- [**RestAPI**](https://github.com/DilmurodZK/RestAPI) – real hayotiy muammo yoki minimal API misoli  
-- [**Tuskhub**](https://github.com/DilmurodZK/TaskHub) – tashqi servis integratsiyasi (Telegram)  
+- [**DC_girls**](https://github.com/DilmurodZK/DC_girls) – - Full-stack backend project built with Django + DRF, featuring a REST API, interactive Swagger documentation, and a customized Django Admin dashboard for data management. Demonstrates scalable API design and admin interface customization.
+  
+- [**RestAPI**](https://github.com/DilmurodZK/RestAPI) – - Lightweight RESTful API service showcasing clean CRUD operations, authentication, and PostgreSQL integration. Built to highlight best practices in API design and documentation for real-world applications.
+
+- [**Tuskhub**](https://github.com/DilmurodZK/TaskHub) – - Backend service with Telegram Bot API integration, enabling real-time interaction between users and the system. Demonstrates external service integration, message handling, and database-backed workflows.
 
 ---
 
