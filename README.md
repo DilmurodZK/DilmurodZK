@@ -27,14 +27,13 @@
 ## 📌 Featured Projects
 - [**DC_girls**](https://github.com/DilmurodZK/DC_girls) – - Full-stack backend project built with Django + DRF, featuring a REST API, interactive Swagger documentation, and a customized Django Admin dashboard for data management. Demonstrates scalable API design and admin interface customization.
   
-- [**RestAPI**](https://github.com/DilmurodZK/RestAPI) – - Lightweight RESTful API service showcasing clean CRUD operations, authentication, and PostgreSQL integration. Built to highlight best practices in API design and documentation for real-world applications.
+- [**SchengenVisa**](https://github.com/DilmurodZK/SchengenVisa) – Automation tool that helps streamline the Schengen visa application process. Includes features such as automatic form filling, submission checks, configurable request intervals, and optional Telegram notifications. Highlights skills in backend automation, data handling, and integration with third-party services.
 
 - [**Tuskhub**](https://github.com/DilmurodZK/TaskHub) – - Backend service with Telegram Bot API integration, enabling real-time interaction between users and the system. Demonstrates external service integration, message handling, and database-backed workflows.
 
 ---
 
-## 📖 Currently Learning
-- CS50’s Python Programming  
+## 📖 Currently Learning 
 - HarvardX Data Science courses  
 - Advanced English for academic & professional contexts  
 
