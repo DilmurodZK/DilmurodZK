@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dilmurodjon
+# 👋 Hi, I’m Dilmurod
 
 🎯 **Backend Developer | Python | Django | DRF | PostgreSQL**  
 🔬 PhD Candidate in Robotics & Technological Machines  
