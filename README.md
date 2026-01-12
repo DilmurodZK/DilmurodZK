@@ -34,7 +34,7 @@
 ---
 
 ## 📖 Currently Learning 
-- HarvardX Data Science courses  
+- [Acquiring Core ABAP Skills](https://learning.sap.com/learning-journeys/acquiring-core-abap-skills) 
 - Advanced English for academic & professional contexts  
 
 ---
